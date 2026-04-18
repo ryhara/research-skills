@@ -4,11 +4,19 @@
     "name": "ryhara",
     "email": "ryosei.hara@gmail.com"
   },
+  "metadata": {
+    "version": "0.1.0",
+    "description": "研究活動を支援する Claude Code skill 集"
+  },
   "plugins": [
     {
-      "name": "research-skills",
-      "source": ".",
-      "description": "研究活動を支援する Claude Code skill 集"
+      "name": "survey-skills",
+      "source": "./",
+      "description": "",
+      "skills": [
+        "./skills/read-paper",
+        "./skills/survey"
+      ]
     }
   ]
 }
