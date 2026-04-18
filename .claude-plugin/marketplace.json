@@ -1,0 +1,14 @@
+{
+  "name": "ryhara-research",
+  "owner": {
+    "name": "ryhara",
+    "email": "ryosei.hara@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "research-skills",
+      "source": ".",
+      "description": "研究活動を支援する Claude Code skill 集"
+    }
+  ]
+}
