@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "survey-skills",
+      "name": "research-skills",
       "source": "./",
       "description": "",
       "skills": [
